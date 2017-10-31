@@ -10,6 +10,7 @@ namespace Sample
             }
 
             return path.Replace(basePath + "\\", "");
+            
         }
     }
 }
